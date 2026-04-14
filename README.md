@@ -28,7 +28,7 @@ This project analyzes fitness and health data to identify risk levels and unders
 - Low-risk users sleep ~2 hours more than high-risk users
 
 📸 Dashboard Preview
-(Will add image here)
+[Dashboard](images/dashboard.png)
 
 ⚠️ Note
 Dataset not uploaded due to size limitations.
