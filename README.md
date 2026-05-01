@@ -30,5 +30,48 @@ This project analyzes fitness and health data to identify risk levels and unders
 📸 Dashboard Preview
 [Dashboard](images/Dashboard.png)
 
-⚠️ Note
-Dataset not uploaded due to size limitations.
+💡 Business / Health Recommendations
+
+- Maintain **7–8 hours of sleep** for optimal wellness  
+- Reduce stress through lifestyle improvements  
+- Monitor sleep patterns for early risk detection  
+- Focus on preventive health strategies  
+
+## 🛠️ Tools & Technologies
+
+- Python (Data Processing)  
+- Pandas & NumPy  
+- Power BI (Dashboard & Visualization)
+
+Health-Analytics-Dashboard/
+│
+├── data/
+├── notebooks/
+├── powerbi/
+├── images/
+│ └── dashboard.png
+│
+├── README.md
+└── requirements.txt
+
+## 🧠 What This Project Demonstrates
+
+- Data Analysis & Cleaning  
+- Data Visualization (Power BI)  
+- KPI Design & Dashboarding  
+- Insight Generation from Data  
+
+## 🏁 Conclusion
+
+This project demonstrates how health data can be used to:
+
+- Identify risk patterns  
+- Improve lifestyle decisions  
+- Enable data-driven health insights  
+
+It highlights strong **analytical thinking and visualization skills**, making it highly relevant for Data Analyst roles.
+
+## 👤 Author
+
+**Chiraag S**  
+Data Science Enthusiast
